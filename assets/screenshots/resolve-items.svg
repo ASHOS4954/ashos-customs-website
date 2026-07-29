@@ -1,0 +1,8 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='1280' height='800' viewBox='0 0 1280 800'>
+  <rect width='1280' height='800' fill='#F3F4F6'/>
+  <rect x='40' y='40' width='1200' height='720' rx='12' fill='#FFFFFF' stroke='#E5E7EB' stroke-width='2'/>
+  <rect x='40' y='40' width='1200' height='48' rx='12' fill='#0B1320'/>
+  <text x='64' y='72' fill='#FFFFFF' font-family='Segoe UI, Arial, sans-serif' font-size='18' font-weight='600'>AshOS Customs</text>
+  <text x='640' y='420' text-anchor='middle' fill='#667085' font-family='Segoe UI, Arial, sans-serif' font-size='22'>Replace with Marketing Mode screenshot:</text>
+  <text x='640' y='460' text-anchor='middle' fill='#2563EB' font-family='Segoe UI, Arial, sans-serif' font-size='28' font-weight='600'>resolve-items.png</text>
+</svg>
